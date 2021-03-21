@@ -1,5 +1,5 @@
 # Text-analysis
-In this project I want to show how to analyze text unsing NLP tools.
+In this project I want to show how to analyze text using NLP tools.
 
 ### Main Libraries:
 * nltk
